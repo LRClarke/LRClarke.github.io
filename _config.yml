@@ -1,6 +1,7 @@
-title: Lee Clarke # your name (or website title) here
-logo: "/images/Selfie.jpg?raw=true" # your photo (or logo) here
 >p style = "font-family: Times New Roman">
+title: Lee Clarke >p style = "font-family: Times New Roman">
+logo: "/images/Selfie.jpg?raw=true" # your photo (or logo) here
+
 description: > # your text below (remove <br> elements if you don't need line breaks)
   I will finish my masters degree in Geospatial Technology at the University of Oklahoma this August. I have experience working with the ArcGIS suite, Envi, the Google Earth Engine and R statistics language. 
   <br><br>
