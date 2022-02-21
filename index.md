@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
+[Measuring the Effectiveness of Urban Forest Park Development to Offset the Urban Heat Island Effect in Portland, Oregon](/sample_page)
 <img src="file:/images/3minutemaps4.png?raw=true"/>
 
 ---
