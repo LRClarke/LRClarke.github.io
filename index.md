@@ -4,7 +4,7 @@
 
 ### Graduate School Work 
 
-[Measuring the Effectiveness of Urban Forest Park Development to Offset the Urban Heat Island Effect in Portland, Oregon](img src="file:/images/3minutemaps4.png?raw=true"/)
+[Measuring the Effectiveness of Urban Forest Park Development to Offset the Urban Heat Island Effect in Portland, Oregon]
 <img src="file:/images/3minutemaps4.png?raw=true"/>
 
 ---
