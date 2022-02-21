@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### Graduate School Work 
 
 [Measuring the Effectiveness of Urban Forest Park Development to Offset the Urban Heat Island Effect in Portland, Oregon](/sample_page)
 <img src="file:/images/3minutemaps4.png?raw=true"/>
@@ -17,7 +17,7 @@
 
 ---
 
-### Category Name 2
+### Undergraduate Work
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
