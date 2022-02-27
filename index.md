@@ -19,10 +19,10 @@ The power lines were georeferenced with my android phone.
 
 
 ---
-[Carr Fire](https://uok.maps.arcgis.com/home/webmap/viewer.html?webmap=7c8cfb0073154014abeac25fdf05eecc)
+[Carr Fire]
 <img src="images/carr.JPG?raw=true"/>
 This link is to an ArcGIS online map. It is an ongoing project of mine. I am measuring the regrowth of the Carr Fire and comparing it to the yearly precipitation totals.
-
+https://uok.maps.arcgis.com/home/webmap/viewer.html?webmap=7c8cfb0073154014abeac25fdf05eecc
 
 ---
 
