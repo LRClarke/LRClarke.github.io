@@ -21,9 +21,8 @@ The power lines were georeferenced with my android phone.
 ---
 ## Carr Fire
 
-<img src="images/carr.JPG?raw=true"/>
-This link is to an ArcGIS online map. It is an ongoing project of mine. I am measuring the regrowth of the Carr Fire and comparing it to the yearly precipitation totals.
 [![Carr Fire](images/carr.JPG)](https://arcg.is/1rivSf (Links to an external site.))
+This link is to an ArcGIS online map. It is an ongoing project of mine. I am measuring the regrowth of the Carr Fire and comparing it to the yearly precipitation totals.
 
 ---
 
