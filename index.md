@@ -2,7 +2,7 @@
 
 ---
 
-### Graduate School Work 
+# Cartography Work 
 
 ## Measuring the Effectiveness of Urban Forest Park Development to Offset the Urban Heat Island Effect in Portland, Oregon 
 <img src="images/3minutemaps4.png?raw=true"/>
@@ -19,6 +19,11 @@ The power lines were georeferenced with my android phone.
 
 
 ---
+
+---
+
+# Wildfire Analyses
+
 ## Carr Fire
 
 [![Carr Fire](images/carr.JPG)](https://arcg.is/1rivSf)
@@ -26,9 +31,10 @@ This link is to an ArcGIS online map. It is an ongoing project of mine. I am mea
 
 ---
 
-### Undergraduate Work
+## Google Earth Engine Applications
 
-- [Project 1 Title](http://example.com/)
+- [Kincade Fire dNBR](https://lrclarke.users.earthengine.app/view/kincade-fire-dnbr)
+This is a Google Earth Application that allows the user to use a split screen slider to observe the damage of The 2019 Kincade Fire in Sonoma County, California. 
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
