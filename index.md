@@ -35,10 +35,7 @@ This link is to an ArcGIS online map. It is an ongoing project of mine. I am mea
 
 - [Kincade Fire dNBR](https://lrclarke.users.earthengine.app/view/kincade-fire-dnbr)
 This is a Google Earth Application that allows the user to use a split screen slider to observe the damage of The 2019 Kincade Fire in Sonoma County, California. 
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+
 
 ---
 
