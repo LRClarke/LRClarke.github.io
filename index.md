@@ -1,5 +1,4 @@
-<img src="esri-ypn-email-signature-badges-member.png"/>
----
+
 ## Portfolio
 ---
 ### All work show was made during my graduate and undergraduate career.For privacy reasons I do not post the work from my current job.
