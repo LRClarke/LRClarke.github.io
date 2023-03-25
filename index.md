@@ -46,8 +46,19 @@ This is a Google Earth Application that allows the user to use a split screen sl
 ---
 
 # Art and Graphic Design
+## Digital Art
 <img src="images/surreal_frame.jpg?raw=true"/>
 
+## From my Sketchbook
+<img src="images/thrush.png?raw=true"/>
+Ixoreus naevius
+
+<img src="images/juncoandowl.jpg?raw=true"/>
+Junco hyemalis, Tyto alba
+
+<img src="images/dromeosaurs.png?raw=true"/>
+Paleoart is mostly interpretation based on scientific knowledge from fossil evidence and present day animal traits.
+These of some of my interpretation of Deinonychus
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
