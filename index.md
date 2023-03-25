@@ -45,7 +45,8 @@ This is a Google Earth Application that allows the user to use a split screen sl
 
 ---
 
-# Graphic Design (coming soon)
+# Art and Graphic Design
+<img src="surreal_frame.jpg?raw=true"/>
 
 
 ---
