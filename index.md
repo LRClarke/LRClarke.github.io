@@ -62,7 +62,8 @@ Junco hyemalis, Tyto alba
 
 <img src="images/dromeosaurs.png?raw=true"/>
 Paleoart is mostly interpretation based on scientific knowledge from fossil evidence and present day animal traits.
-These of some of my interpretations of Deinonychus. Deinonychus probably did not have a crest, but I took some artistic liberty
+These of some of my interpretations of Deinonychus. Deinonychus probably did not have a crest, but I took some artistic liberty. 
+With my undergraduate emphasis in Eduaction and Interpretaion my goal is to show to the public a more accurate portrayal of the non-avian dinosaurs.
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
