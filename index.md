@@ -4,11 +4,10 @@
 
 ## Portfolio
 
-All work show was made during my graduate and undergraduate career. For privacy reasons I do not post the work from my current job.
 
 
 # Cartography Work 
-### All work show was made during my graduate and undergraduate career.For privacy reasons I do not post the work from my current job.
+### All  GIS and cartographic work shown was made during my graduate and undergraduate career. For privacy reasons I do not post the work from my current job.
 
 ## Measuring the Effectiveness of Urban Forest Park Development to Offset the Urban Heat Island Effect in Portland, Oregon
 <img src="images/3minutemaps4.png?raw=true"/>
