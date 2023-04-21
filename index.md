@@ -48,6 +48,10 @@ This is a Google Earth Application that allows the user to use a split screen sl
 ## Digital Art
 <img src="images/surreal_frame.jpg?raw=true"/>
 
+## Interpretive Design
+<img src="images/cephlopods.png?raw=true"/>
+In my Undergraduate career I focused on interpretive graphic design to promote science to the public. The porpse of this is to be an eye catching sign in aquarium facilities. The dark colors are suitable for the dim lighting in aquariums for easier legibility. Unfortunatly I have misplaced the thumbdrive with the original png file.
+
 ## From my Sketchbook
 <img src="images/thrush.png?raw=true"/>
 Ixoreus naevius
